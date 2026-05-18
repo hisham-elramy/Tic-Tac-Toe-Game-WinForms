@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+
+# Logs
+*.log
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Temp files
+*.tmp
+*.temp
+
+# ReSharper
+_ReSharper*/
+
+# OS generated files
+.DS_Store
